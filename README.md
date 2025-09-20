@@ -16,24 +16,50 @@ O dataset “Análise de Dados Comerciais” contém 457 registros de vendas e e
 - ValorVenda → Receita obtida na transação.
 - Custo → Valor de custo do produto.
 
-## Dataviz - Índice
-![Dashboard_Indice](files/indice.PNG)
-<br>
+## Perspectivas para análises
+Os dashboards apresentados abaixo mostram um fluxo analítico que vai da visão macro (fabricantes e segmentos) até a performance detalhada por vendedores e regiões. Seguem elaboração de insights para tomada de decisão assertiva dos gestores do negócio.
 
-## Dataviz - Narrativa Inteligente
+### Narrativa Inteligente
+- Destaque para o desempenho por fabricante.
+- A Brastemp obteve o maior valor total de vendas (≈ R$ 92,8 mil), representando 25,82% do total, e superando a Electrolux (≈ R$ 6,7 mil), que teve o menor resultado.
+- O painel mostra a variação de vendas entre os 12 fabricantes, reforçando a liderança de alguns players no mercado.
+
+### Dataviz - Narrativa Inteligente
 ![Dashboard_Page1](files/page1.PNG)
 <br>
 
-## Dataviz - Principais Influenciadores Vendas
+### Principais Influenciadores
+- Análise de fatores que mais impactam o Valor das Vendas.
+- Observa-se que as vendas tendem a ser maiores no segmento Corporativo, seguido pela categoria Celulares.
+- O relatório evidencia padrões: quando o segmento é corporativo, a média de vendas aumenta significativamente em relação ao doméstico.
+
+### Dataviz - Principais Influenciadores Vendas
 ![Dashboard_Page2](files/page2.PNG)
 <br>
 
-## Dataviz - Faixas Vendas
+### Faixas de Vendas
+- Comparação do total de vendas por categoria e ponto de venda (loja).
+- Principais destaques em valor total:
+- Eletrodomésticos (≈ R$ 193 mil),
+- Celulares (≈ R$ 98,6 mil),
+- Eletrônicos (≈ R$ 48,3 mil).
+- É possível explorar, loja a loja, quais categorias se destacam mais em volume de vendas.
+
+### Dataviz - Faixas Vendas
 ![Dashboard_Page3](files/page3.PNG)
 <br>
 
-## Dataviz - Performance Vendedores
+### Performance de Vendedores
+- Apresenta as vendas distribuídas por estado e vendedor.
+- O painel facilita a análise geográfica e individual de performance, permitindo identificar quais vendedores se destacam em cada região.
+- Entre os destaques estão nomes como André Pereira, Artur Moreira e Josias Silva.
+
+### Dataviz - Performance Vendedores
 ![Dashboard_Page4](files/page4.PNG)
+<br>
+
+### Dataviz - Índice
+![Dashboard_Indice](files/indice.PNG)
 <br>
 
 ## Dashboard Online
@@ -41,3 +67,6 @@ O dataset “Análise de Dados Comerciais” contém 457 registros de vendas e e
 <br>
 
 [End]
+
+
+
